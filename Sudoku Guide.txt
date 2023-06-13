@@ -1,0 +1,12 @@
+Aim: 
+To complete the grid of numbers 
+
+Rules of the grid: 
+All rows, columns and 3x3 squares must have only numbers 1-9 and each number must only appear once.
+
+How to Play: 
+To select a square on the grid, first enter the number of the column (1-9, with 1 on theleft & 9 on the right). Then enter number of the row (1-9, with 1 on the top and 9 on the bottom)
+If you have selected that is blank(to be guessed), it will show with a red outline(Note: might not on first square selected)
+Then enter your guess 1-9, if correct the number will show, if wrong the mistakes count will increase. 
+When you have completed the grid, it should give your final time and mistake count. When finished close the window(no automatic close) 
+(PLEASE NOTE: Entering a blank to any input will cause an error! Try not to let this happen)
